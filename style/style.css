@@ -1,0 +1,219 @@
+h2 {
+    margin-left: 125px;
+}
+.port {
+    width: 267px;
+}
+.mega-content {
+    margin: 0;
+    padding: 0;
+    color: black;
+}
+
+body {
+    margin: 0;
+    font-family: "Montserrat";
+}
+
+.header {
+    background-color: #fff;
+    width: 100%;
+    border-bottom: 10px solid #eee;
+}
+.header h1 {
+    font-size: 27px;
+    display: block;
+    margin: 20px 0 20px 30px;
+}
+.header h2 {
+    display: flex;
+    justify-content: right;
+    font-size: 14px;
+}
+.content-h2 {
+    display: flex;
+    justify-content: right;
+    font-size: 14px; 
+    color: #777777;
+    font-weight: 600;
+    
+}
+.header-nav {
+    margin: 10px auto;
+    display: flex;
+    justify-content: right; 
+}
+
+.header-a {
+    margin-right: 20px;
+    text-decoration: none;
+    color: #7d8cff;
+}
+
+.header-a:hover {
+transition: 1s;
+    text-decoration: underline;
+    
+    color: #ffcd7d;
+
+}
+
+/* COntent */
+
+.content {
+    height: auto;
+    width: 80%;
+    margin: 0 auto;
+    background-color: white;
+    border-bottom: 1px solid #eee;
+}
+
+.content h1 {
+    width: 100%;
+    margin: 0 20px;
+    
+}
+
+.content-h1 {
+    text-align: center;
+}
+
+.hz {  
+    margin: 10px 0;
+}
+
+.h1-tet {
+    margin: 0;
+    padding: 0;
+}
+
+.content-mini {
+    height: auto;
+    width: 75%;
+    margin: 0 auto;
+}
+
+.mmega-content {
+    width: 100%;
+    background-color: #eee;
+}
+
+.content-12 {
+    width: 300px;
+}
+
+.content-works {
+    width: 100%;
+    height: auto;
+}
+
+.content-image {
+    max-width: 100%;
+    display: block;
+    height: auto;
+}
+
+.content-p {
+    border-bottom: 1px solid #ccc;
+}
+
+.content-h3 {
+    margin-left: 40px;
+}
+/* Footer */
+
+.footer {
+    height: 200px;
+    width: 100%;
+    background-color: black;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer a {
+    color: white;
+}
+
+.footer a:hover {
+    background-color: #262626;
+}
+.vantan {
+    background-color: #000;
+    color: white;
+    margin: 0;
+    display: block;
+}
+
+.ffooter {
+    width: 100%;
+    color: black;
+    margin: 0;
+}
+
+.img {
+    width: 25px;
+    height: 25px;
+}
+
+.ddiv {
+        display: flex;
+    justify-content: flex-end;
+}
+
+.ddiv a {
+    text-align: center;
+}
+
+.hrefki {
+    display: block;
+    width: 80px;
+    height: 25px;
+    margin-right: 40px;
+    margin-left: 10px;
+    text-align: center;
+}
+div{
+    
+}
+.serr {
+    display: flex;
+    
+}
+
+.vantan {
+    text-align: center;
+}
+
+.ashki {
+    display: block;
+    width: 50px;
+    height: 25px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.circle {
+    width: 115px;
+        border-radius: 50%;  
+    border: 5px solid #fff; 
+    box-shadow: 2px 1px 5px #999999; 
+    margin-left: 25px;
+}
+
+table {
+    border: 1px solid black;
+}
+
+.td-table {
+    display: flex;
+}
+
+.content-h3:last-child {
+    margin: 0;
+}
+
+.razdel {
+    
+}
